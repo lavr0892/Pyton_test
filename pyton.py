@@ -37,3 +37,5 @@ if len(number) > 1:
     print(number[1][0])
 else:
     print('Целое число')
+    #third revert
+    
